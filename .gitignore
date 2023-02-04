@@ -1,1 +1,4 @@
-RELEASE_NOTES.md
+.DS_Store
+build
+.swiftpm
+Package.resolved
